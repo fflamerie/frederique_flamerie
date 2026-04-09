@@ -60,7 +60,6 @@ d'œuvre** et la prise en charge directe de certaines tâches.
 
 
 ## Contact
-
-![Logo FFlamerie]({% link images/LogoFF.png %})
-
 Pour me contacter, utilisez l'adresse suivante en supprimant les crochets entourant l'arobase : frederique.flamerie[@]pm.me 
+
+![Logo FFlamerie]({% link images/LogoFF.png %}) 
