@@ -1,9 +1,11 @@
 ---
-title: "Catalogue de stages"
+title: "Formations"
 order: 1
 in_menu: true
 blog_index: true
 ---
+# Catalogue de stages 2025-2026
+ 
 Tous ces stages ont déjà eu lieu en 2025 ou précédemment. Les stages à
 distance peuvent être organisés en présentiel. Je suis à votre écoute
 pour adapter ces formations prêtes à l'emploi en fonction de vos
