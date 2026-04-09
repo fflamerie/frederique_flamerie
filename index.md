@@ -57,3 +57,7 @@ d'œuvre** et la prise en charge directe de certaines tâches.
 -   Effectuer une recherche documentaire méthodique et exhaustive
 -   Rédiger des articles, des billets de blog, de la documentation
     utilisateurs 
+
+## Contact
+
+Pour me contacter : frederique.flamerie[@]pm.me 
