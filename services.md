@@ -3,11 +3,13 @@ title: "Services"
 order: 1
 in_menu: true
 ---
+# Services  
+
 Je suis à votre écoute pour définir le niveau de services adapté à votre
 projet bibliographique, qu'il s'agisse d'un contexte académique,
 professionnel ou personnel.
 
-### Assurer une production bibliographique de qualité
+## Assurer une production bibliographique de qualité
 
 -   Mise en place, constitution et administration de bases
     bibliographiques
@@ -18,7 +20,7 @@ professionnel ou personnel.
 -   Rédaction et documentation de styles personnalisés CSL pour une
     exploitation avec Zotero
 
-#### Exemple de réalisation
+### Exemple de réalisation
 
 [Style CSL "Université de Bordeaux - École doctorale de droit
 (Français)"](http://weburfist.univ-bordeaux.fr/citer-des-references-juridiques-guide-et-style-zotero/)
@@ -29,7 +31,7 @@ revue professionnelle
 Arabesques](https://dx.doi.org/10.35562/arabesques.1310) et sur [le blog
 du réseau des Urfist](https://urfistinfo.hypotheses.org/3305)
 
-### Effectuer une recherche documentaire méthodique et exhaustive
+## Effectuer une recherche documentaire méthodique et exhaustive
 
 -   Aide à la conception d'équations de recherche
 -   Recherches documentaires dans les bases de données (PubMed, Scopus,
@@ -37,7 +39,7 @@ du réseau des Urfist](https://urfistinfo.hypotheses.org/3305)
     etc.
 -   Recherche de texte intégral
 
-#### Exemples de réalisations
+### Exemples de réalisations
 
 -   [Projet CONHECS-IT](https://cohnecsit.mnhn.fr/) porté par le Muséum
     national d'histoire naturel : soutien méthodologique pour la
@@ -54,14 +56,14 @@ du réseau des Urfist](https://urfistinfo.hypotheses.org/3305)
         interventions in public health: A review. *Disabilities*, 4(3),
         724-740. <https://doi.org/10.3390/disabilities4030044>
 
-### Autres domaines d'intervention
+## Autres domaines d'intervention
 
 -   Choix d'une archive ouverte pour l'archivage et la diffusion en
     libre accès des productions scientifiques
 -   Dépôt des productions scientifiques en archive ouverte
 -   Rédaction d'articles, de billets de blog, etc. 
 
-#### Exemples de réalisations
+### Exemples de réalisations
 
 -   Dépôt de publications en archive ouverte : [mon CV
     HAL](https://cv.hal.science/frederique-flamerie)
