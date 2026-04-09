@@ -3,8 +3,6 @@ title: "Services"
 order: 1
 in_menu: true
 ---
-# Services  
-
 Je suis à votre écoute pour définir le niveau de services adapté à votre
 projet bibliographique, qu'il s'agisse d'un contexte académique,
 professionnel ou personnel.
