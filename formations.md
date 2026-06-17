@@ -9,14 +9,14 @@ distance peuvent être organisés en présentiel. Je suis à votre écoute
 pour adapter ces formations prêtes à l'emploi en fonction de vos
 souhaits et de vos objectifs.
 
-## [Nouveau] Recherche documentaire et rédaction bibliographique - École des Plantes de Paris
+## Recherche documentaire et rédaction bibliographique - École des Plantes de Paris
 
 -   Durée : 2 x 1h
 -   Modalité : à distance
 -   [Support de formation et
     descriptif](https://github.com/fflamerie/biblio_EDPP)
 
-## [Nouveau] Gestion et rédaction bibliographiques avec l'IA
+## Gestion et rédaction bibliographiques avec l'IA
 
 -   Durée : 3h
 -   Modalité : à distance
