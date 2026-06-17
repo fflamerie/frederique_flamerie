@@ -3,16 +3,14 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-# Formatrice et prestataire de services bibliographiques
+# Bibliothécaire formatrice
 
-Conservatrice des bibliothèques depuis 2004 et formatrice depuis 2007,
-j'interviens tant auprès des communautés scientifiques de toutes
-disciplines que des professionnels de la documentation. De la
-numérisation patrimoniale à l'administration d'une **archive ouverte**,
-le numérique et **l'accompagnement des équipes de recherche** ont
-fortement marqué mon parcours. Mon expertise principale concerne
-actuellement la recherche documentaire et la gestion bibliographique
-avec **Zotero**.
+Après avoir exercé en tant que prestataire indépendante de septembre 2024 à juin 2026, je rejoins la lecture publique en juillet 2026 et c'est aujourd'hui selon un modèle **non-commercial** que je mets mes compétences à votre service. Du troc au bénévolat, tout est envisageable à partir du moment où votre projet est aligné avec mes valeurs.
+
+Bibliothécaire depuis 2004 et formatrice depuis 2007, je suis intervenue tant auprès des communautés scientifiques de toutes
+disciplines que des professionnels de la documentation. De la numérisation patrimoniale à l'administration d'une **archive ouverte**,
+le numérique et **l'accompagnement des équipes de recherche** ont fortement marqué mon parcours. Mon expertise principale concerne
+actuellement la recherche documentaire et la gestion bibliographique avec **Zotero**. 
 
 ![Photo portrait de Frédérique Flamerie]({% link images/med_5635_carre-moyen.jpg %})
 
@@ -31,13 +29,6 @@ fondatrice du collectif
 [traduction-zotero-fr](https://framalistes.org/sympa/info/traduction-zotero-fr)
 depuis 2022, j'ai à cœur de contribuer à l'usage de ce logiciel au sein
 de la francophonie.
-
-Aujourd'hui, c'est en tant que prestataire que je mets mes compétences
-au service de la communauté académique, des entreprises et des
-particuliers. Mon offre de services globale vise à répondre à tous types
-de besoins, du **conseil** et de l'**accompagnement** à la **formation**
-(y compris formation de formateurs), en passant par la **maîtrise
-d'œuvre** et la prise en charge directe de certaines tâches.
 
 ## Clients
 
